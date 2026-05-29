@@ -81,4 +81,4 @@ Model runs use Temoa v4.0.0a2 with the HiGHS LP solver (`appsi_highs`). Full dat
 
 ## Contact
 
-David - davidjflorezr <at> gmail
+David - davidjflorezr \<at\> gmail
