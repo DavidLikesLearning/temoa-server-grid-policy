@@ -1,7 +1,7 @@
 # The Cost of Clean Data: Modeling the IRS 45V Three-Pillars Framework for Data Center Renewable Energy
 
-**David J. Florez-Ramirez and M. Granger Morgan**  
-Carnegie Mellon University, Department of Engineering and Public Policy
+**David J. Florez Rodriguez, Paulina Jaramillo, Joseph F. DeCarolis
+Engineering & Public Policy, Carnegie Mellon University
 
 ---
 
@@ -66,11 +66,11 @@ Three-pillars procurement rules create distinct costs and benefits for different
 
 ```
 results/
-├── three_pillars_eastern_13_strict_conv_comparison.xlsx   ← baseline vs. strict (same-zone)
-└── three_pillars_eastern_13_rto_conv_comparison.xlsx      ← baseline vs. RTO
+── three_pillars_eastern_13_strict_conv_comparison.xlsx   ← baseline vs. strict (same-zone)
+── three_pillars_eastern_13_rto_conv_comparison.xlsx      ← baseline vs. RTO
 
 figures/
-└── eastern_13_regions.png   ← 13-region Eastern Interconnect study area
+── eastern_13_regions.png   ← 13-region Eastern Interconnect study area
 ```
 
 ## Reproducibility
@@ -79,4 +79,4 @@ Model runs use Temoa v4.0.0a2 with the HiGHS LP solver (`appsi_highs`). Full dat
 
 ## Contact
 
-David Florez-Ramirez — davidjflorezr@gmail.com
+David - davidjflorezr <at> gmail
