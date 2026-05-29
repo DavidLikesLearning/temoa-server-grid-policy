@@ -1,0 +1,40 @@
+# Large databases — check in only small examples if needed
+*.sqlite
+*.db
+
+# Temoa solver outputs
+output_files/
+*.lp
+*.log
+temoa-run.log
+
+# Python environment
+temoa_env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Temp Excel lock files
+~$*.xlsx
+
+# Large output zips
+*.zip
