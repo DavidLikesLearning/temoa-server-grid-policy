@@ -1,6 +1,6 @@
 # The Cost of Clean Data: Modeling the IRS 45V Three-Pillars Framework for Data Center Renewable Energy
 
-**David J. Florez Rodriguez, Paulina Jaramillo, Joseph F. DeCarolis
+**David J. Florez Rodriguez, Paulina Jaramillo, Joseph F. DeCarolis**
 Engineering & Public Policy, Carnegie Mellon University
 
 ---
